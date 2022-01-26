@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Learn to be strong
+The grass isn't greener on the other side
+NaSo
